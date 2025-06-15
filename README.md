@@ -1,5 +1,4 @@
-<marquee scrollamount="8" behavior="scroll" direction="left">
-  🚀 Welcome to my Code Galaxy — Tishbian Meshach reporting from the matrix!
+
 
 <!-- Animated Profile Header -->
 <div align="center">
@@ -156,7 +155,7 @@ fun_facts:
   <img src="https://badges.pufler.dev/years/tishbian-meshach?style=for-the-badge&color=blue&label=Years%20on%20GitHub" alt="Years on GitHub" />
   <img src="https://badges.pufler.dev/repos/tishbian-meshach?style=for-the-badge&color=yellowgreen&label=Public%20Repos" alt="Public Repos" />
   <img src="https://badges.pufler.dev/commits/monthly/tishbian-meshach?style=for-the-badge&color=orange&label=Monthly%20Commits" alt="Monthly Commits" />
-</div></marquee>
+</div>
   
   <br><br>
   
