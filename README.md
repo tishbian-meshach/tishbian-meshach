@@ -83,20 +83,6 @@ Tailwind     ██████████████▒▒▒▒▒▒▒▒�
 
 </div>
 
-## 🌟 Highlights
-
-<div align="center">
-
-| 🎖️ **Achievement** | 📊 **Count** |
-|:---:|:---:|
-| 🔥 **Streak** | 100+ days |
-| ⭐ **Stars Earned** | 500+ |
-| 👥 **Followers** | 200+ |
-| 🍴 **Forks** | 150+ |
-| 📚 **Repositories** | 50+ |
-| 🤝 **Contributing to** | 20+ projects |
-
-</div>
 
 
 ## 📫 Let's Connect
