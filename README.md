@@ -1,4 +1,6 @@
-
+<marquee scrollamount="8" behavior="scroll" direction="left">
+  🚀 Welcome to my Code Galaxy — Tishbian Meshach reporting from the matrix!
+</marquee>
 <!-- Animated Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=1000&pause=1000000000000000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=TISHBIAN+MESHACH" alt="Animated Header" />
@@ -143,7 +145,8 @@ fun_facts:
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
   
   <br><br>
-  
+  <img src="https://github.com/tishbian-meshach/tishbian-meshach/raw/output/github-contribution-grid-snake.svg" />
+
   
   <br>
   
