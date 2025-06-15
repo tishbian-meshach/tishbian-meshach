@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake animation" />
-</div>
+
 
 ## 🚀 About Me
 
@@ -18,7 +16,7 @@ const developer = {
   askMeAbout: ["web dev", "tech", "app dev", "photography"],
   technologies: {
     frontEnd: {
-      js: ["React", "Vue", "Angular"],
+      js: ["React"],
       css: ["Sass", "Tailwind", "Bootstrap"]
     },
     backEnd: {
@@ -31,7 +29,7 @@ const developer = {
       gcp: ["Compute Engine", "Cloud Functions"],
       azure: ["Virtual Machines", "Functions"]
     },
-    misc: ["Docker", "Kubernetes", "CI/CD", "GraphQL"]
+    misc: ["Docker", "GraphQL"]
   },
   currentFocus: "Building scalable applications with modern technologies",
   funFact: "I debug with console.log() and I'm not ashamed! 🤷‍♂️"
@@ -42,38 +40,38 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,vue,angular,nodejs,python,java,cpp,typescript,php,mysql,mongodb,postgresql,aws,gcp,azure,docker,kubernetes,git,github,vscode,figma,photoshop&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,typescript,mysql,mongodb,postgresql,aws,gcp,azure,docker,git,github,vscode,figma,photoshop,illustrator&perline=8" />
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tishbian-meshach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishbian-meshach&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tishbian-meshach&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tishbian-meshach&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ## 🎯 Current Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tishbian-meshach&repo=project1&theme=tokyonight)](https://github.com/tishbian-meshach/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tishbian-meshach&repo=project2&theme=tokyonight)](https://github.com/tishbian-meshach/project2)
 
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tishbian-meshach&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ## 🎨 Skills Visualization
@@ -87,7 +85,7 @@ React        ███████████████████▒▒▒�
 Node.js      ██████████████████▒▒▒▒▒▒▒   70% 
 TypeScript   ████████████████▒▒▒▒▒▒▒▒▒   65% 
 Docker       ███████████████▒▒▒▒▒▒▒▒▒▒   60% 
-AWS          ██████████████▒▒▒▒▒▒▒▒▒▒▒   55% 
+Tailwind     ██████████████▒▒▒▒▒▒▒▒▒▒▒   55% 
 ```
 
 </div>
@@ -107,29 +105,19 @@ AWS          ██████████████▒▒▒▒▒▒▒▒�
 
 </div>
 
-## 🎵 Currently Vibing To
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=628fdb" alt="Spotify Now Playing" />
-</div>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tishbian-meshach)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selfie_jones)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.behance.net/selfiejones)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.stishbian262@gmail.com)
 
 </div>
 
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
-## 🐍 Watch my contributions get eaten by a snake!
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
@@ -138,11 +126,9 @@ AWS          ██████████████▒▒▒▒▒▒▒▒�
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=628fdb&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=tishbian-meshach&label=Profile%20Views&color=628fdb&style=flat-square" alt="Profile Views" />
 
-**⚡ Fun fact: I write bugs... I mean features! 🐛➡️✨**
 
 </div>
 
