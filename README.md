@@ -47,19 +47,13 @@ fun_facts:
   - "I speak fluent JSON and occasional human 🗣️"
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,python,java,typescript,tailwind,mysql,mongodb,postgresql,aws,gcp,azure,docker,git,github,vscode,figma,photoshop,illustrator,linux&perline=8&theme=dark" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 ## 📊 GitHub Analytics
 
@@ -99,9 +93,6 @@ fun_facts:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tishbian-meshach&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=30A3DC&point=FF6B6B&area=true&hide_border=false&border_color=30A3DC" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 🎨 Skills Matrix
 
@@ -125,11 +116,6 @@ fun_facts:
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📫 Let's Connect & Create Magic
 
 <div align="center">
   
@@ -140,9 +126,7 @@ fun_facts:
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 
 <div align="center">
