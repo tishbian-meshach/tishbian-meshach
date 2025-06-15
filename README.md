@@ -1,7 +1,3 @@
-<!-- Header with animated wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0&animation=twinkling" />
-</div>
 
 <!-- Animated Profile Header -->
 <div align="center">
@@ -10,7 +6,7 @@
 
 <!-- Animated subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things;UI%2FUX+Architect;Code+Magician" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;UI%2FUX+Architect;Graphic+Designer" alt="Typing SVG" />
 </div>
 
 <!-- Animated separator -->
@@ -58,7 +54,6 @@ fun_facts:
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <br><br>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,python,java,typescript,tailwind,mysql,mongodb,postgresql,aws,gcp,azure,docker,git,github,vscode,figma,photoshop,illustrator,linux&perline=8&theme=dark" />
 </div>
 
@@ -68,8 +63,6 @@ fun_facts:
 
 ## 📊 GitHub Analytics
 
-
-<br>
 
 <div align="center">
   <table>
@@ -127,15 +120,9 @@ fun_facts:
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 
 <div align="center">
@@ -145,8 +132,6 @@ fun_facts:
 ## 📫 Let's Connect & Create Magic
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-  <br><br>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/tishbian-meshach)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/selfie_jones)
@@ -168,7 +153,7 @@ fun_facts:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-
+  <br><br>
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
   
@@ -191,6 +176,3 @@ fun_facts:
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Happy+coding!+💻" alt="Footer" />
-</div>
