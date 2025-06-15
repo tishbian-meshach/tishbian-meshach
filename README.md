@@ -10,8 +10,8 @@
 ## 🧠 About Me
 
 ```yaml
-name: Selfie Jones
-aka: Code Wizard 🧙‍♂️
+name: Tishbian Meshach
+aka: Selfie Jones 🧙‍♂️
 skills:
   - Frontend Architect 🏗️
   - Backend Warrior ⚔️
