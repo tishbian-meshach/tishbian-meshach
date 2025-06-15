@@ -1,6 +1,6 @@
 <marquee scrollamount="8" behavior="scroll" direction="left">
   🚀 Welcome to my Code Galaxy — Tishbian Meshach reporting from the matrix!
-</marquee>
+
 <!-- Animated Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=1000&pause=1000000000000000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=TISHBIAN+MESHACH" alt="Animated Header" />
@@ -145,7 +145,7 @@ fun_facts:
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
   
   <br><br>
-  <img src="https://github.com/tishbian-meshach/tishbian-meshach/raw/output/github-contribution-grid-snake.svg" />
+
 
   
   <br>
@@ -156,7 +156,7 @@ fun_facts:
   <img src="https://badges.pufler.dev/years/tishbian-meshach?style=for-the-badge&color=blue&label=Years%20on%20GitHub" alt="Years on GitHub" />
   <img src="https://badges.pufler.dev/repos/tishbian-meshach?style=for-the-badge&color=yellowgreen&label=Public%20Repos" alt="Public Repos" />
   <img src="https://badges.pufler.dev/commits/monthly/tishbian-meshach?style=for-the-badge&color=orange&label=Monthly%20Commits" alt="Monthly Commits" />
-</div>
+</div></marquee>
   
   <br><br>
   
