@@ -20,9 +20,6 @@
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
-</div>
 
 ```yaml
 name: Tishbian Meshach
@@ -61,7 +58,6 @@ fun_facts:
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
   <br><br>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,python,java,typescript,tailwind,mysql,mongodb,postgresql,aws,gcp,azure,docker,git,github,vscode,figma,photoshop,illustrator,linux&perline=8&theme=dark" />
 </div>
@@ -72,9 +68,6 @@ fun_facts:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
-</div>
 
 <br>
 
@@ -119,9 +112,6 @@ fun_facts:
 
 ## 🎨 Skills Matrix
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
-</div>
 
 <div align="center">
 
@@ -141,21 +131,12 @@ fun_facts:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎯 Current Vibes
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=30A3DC" alt="Spotify Now Playing" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 💭 Random Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0D1117&border_color=30A3DC" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -178,7 +159,6 @@ fun_facts:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🐍 Watch the Snake Devour My Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -188,14 +168,12 @@ fun_facts:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎮 Fun Zone
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
   
   <br><br>
   
-  **🎯 "Code is poetry written in logic"**
   
   <br>
   
@@ -203,7 +181,6 @@ fun_facts:
   
   <br><br>
   
-  **⚡ "I don't always test my code, but when I do, I do it in production!" 😄**
   
 </div>
 
