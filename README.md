@@ -1,7 +1,7 @@
 
 <!-- Animated Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=0&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=TISHBIAN+MESHACH" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=0&pause=0&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=TISHBIAN+MESHACH" alt="Animated Header" />
 </div>
 
 <!-- Animated subtitle -->
