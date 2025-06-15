@@ -3,10 +3,7 @@
 <!-- Animated Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=1000&pause=1000000000000000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=TISHBIAN+MESHACH" alt="Animated Header" />
-</div>
 
-<!-- Animated subtitle -->
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;UI%2FUX+Architect;Graphic+Designer" alt="Typing SVG" />
 </div>
 
