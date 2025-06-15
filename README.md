@@ -1,6 +1,6 @@
 <!-- Header with animated wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👋+Hey+there%2C+I'm;✨+TISHBIAN+MESHACH+✨&fontSize=20&animation=twinkling" />
 </div>
 
 <!-- Animated Profile Header -->
