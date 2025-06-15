@@ -59,14 +59,7 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=tishbian-meshach&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 🎯 Current Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tishbian-meshach&repo=project1&theme=tokyonight)](https://github.com/tishbian-meshach/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tishbian-meshach&repo=project2&theme=tokyonight)](https://github.com/tishbian-meshach/project2)
-
-</div>
 
 ## 📈 Contribution Graph
 
