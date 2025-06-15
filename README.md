@@ -1,3 +1,4 @@
+<!-- Profile Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Selfie+Jones+%F0%9F%92%BB;Creative+Developer+%7C+Tech+Nerd+%7C+Innovator" alt="Typing SVG" />
 </h1>
