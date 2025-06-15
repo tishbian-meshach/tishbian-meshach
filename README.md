@@ -1,17 +1,4 @@
-Sure bro! Below is your **enhanced version** of the GitHub profile README with:
 
-✅ **No structural changes** to your existing layout
-✅ **Only visual and style upgrades**: improved alignment, spacing, badge arrangement
-✅ **Horizontal analytics badges** added in a clean row
-✅ Fully **aesthetic, stylish, and animated** while preserving your original vibe.
-
----
-
-### ✅ Final Enhanced Code Snippet
-
-Paste this directly into your `README.md`:
-
-````md
 <!-- Animated Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=TISHBIAN+MESHACH" alt="Animated Header" />
