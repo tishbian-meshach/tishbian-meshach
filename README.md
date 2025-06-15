@@ -1,11 +1,11 @@
 <!-- Header with animated wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=✨&fontSize=0&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0&animation=twinkling" />
 </div>
 
 <!-- Animated Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👋+Hey+there%2C+I'm;✨+TISHBIAN+MESHACH+✨" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=TISHBIAN+MESHACH" alt="Animated Header" />
 </div>
 
 <!-- Animated subtitle -->
