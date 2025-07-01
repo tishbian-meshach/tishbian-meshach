@@ -71,9 +71,6 @@ fun_facts:
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tishbian-meshach&theme=tokyonight&background=0D1117&border=30A3DC&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
 
 <br>
 
@@ -148,10 +145,7 @@ fun_facts:
   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tishbian-meshach&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/visits/tishbian-meshach/tishbian-meshach?style=for-the-badge&color=blueviolet&label=Total%20Visitors" alt="Total Visitors" />
-  <img src="https://badges.pufler.dev/years/tishbian-meshach?style=for-the-badge&color=blue&label=Years%20on%20GitHub" alt="Years on GitHub" />
-  <img src="https://badges.pufler.dev/repos/tishbian-meshach?style=for-the-badge&color=yellowgreen&label=Public%20Repos" alt="Public Repos" />
-  <img src="https://badges.pufler.dev/commits/monthly/tishbian-meshach?style=for-the-badge&color=orange&label=Monthly%20Commits" alt="Monthly Commits" />
+
 </div>
   
   <br><br>
